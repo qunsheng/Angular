@@ -1,4 +1,4 @@
 Angular
 =======
 
-Augular + Phonegap
+Augular + Phonegap + ...
